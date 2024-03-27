@@ -1,4 +1,3 @@
-# sbmthakur
 ### Hi there 👋, Sangram Thakur
 #### Exploring the World of Data 🌐💻 | Machine Learning Enthusiast 🤖 | Data Science Explorer 📊 | Code and Creativity 🚀✨
 ![Exploring the World of Data 🌐💻 | Machine Learning Enthusiast 🤖 | Data Science Explorer 📊 | Code and Creativity 🚀✨](https://pbs.twimg.com/profile_banners/1450140965872693248/1710393178/1500x500)
