@@ -5,7 +5,8 @@
 
 I am an experienced Software Engineer with a passion for building machine-learning solutions. I have expertise in MLOps and experience in developing production-quality software. I am skilled in working collaboratively with cross-functional teams and delivering innovative solutions. I am also knowledgeable in cloud computing technologies such as AWS, Azure, and GCP.
 
-Skills: 
+### Skills:
+ 
 **Statistical Tool:** SPSS 
 
 **Programming Languages:** Python 
