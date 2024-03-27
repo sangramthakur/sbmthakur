@@ -7,13 +7,21 @@ I am an experienced Software Engineer with a passion for building machine-learni
 
 Skills: 
 **Statistical Tool:** SPSS 
+
 **Programming Languages:** Python 
+
 **Container:** Docker and Kubernetes 
+
 **Database Language:** MySQL and SQLite 
+
 **Project Management Tool:** Primavera and MS Project
+
 **Data Reporting Tool:** Tableau, Power BI, SAS and KNIME 
+
 **Framework:** Django, Flask, TensorFlow, PyTorch, and Kubeflow 
+
 **Data Collection Tool:** Web Scraping (BeautifulSoup and Scrapy) 
+
 **Cloud Services:** Microsoft Azure, Amazon Web Services, Google Cloud Platform, and Databricks, 
 
 
