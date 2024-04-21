@@ -22,7 +22,7 @@ I am an experienced Software Engineer with a passion for building machine-learni
 
 **Data Collection Tool:** Web Scraping (BeautifulSoup and Scrapy) 
 
-**Cloud Services:** Microsoft Azure, Amazon Web Services, Google Cloud Platform, and Databricks
+**Cloud Services:** Microsoft Azure, Amazon Web Services, Google Cloud Platform, and Databricks.
 
 
 
