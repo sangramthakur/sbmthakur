@@ -12,7 +12,7 @@ I am an experienced Software Engineer with a passion for building machine-learni
 
 **Container:** Docker and Kubernetes 
 
-**Database Language:** MySQL and SQLite 
+**Database Language:** MySQL, SQLite and MongoDB
 
 **Project Management Tool:** Primavera and MS Project
 
